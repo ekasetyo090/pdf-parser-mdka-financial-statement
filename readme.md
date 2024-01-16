@@ -1,9 +1,9 @@
-#how to install
+# how to install
 
 1. pip install requirements.txt
 2. git clone this repo
      
-#how to used
+# how to used
 
 1. copy pdf file of "financial tahunan MDKA" yang telah di unduh dari laman idx ke dalam folder sample
 2. jalankan "pdf FinancialStatement Tahunan-MDKA.py"
